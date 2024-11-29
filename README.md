@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @bernardtse :man:
+- 👋 Hi, I’m @bernardtse. :man:
 - 😄 Pronouns: he/him :male_sign:
 - :earth_africa: Welcome to my GitHub profile: https://github.com/bernardtse :link:
-- 👀 I’m interested in Data Analytics :bar_chart:
-- 💞️ I’m looking to collaborate on Data Analytics :chart_with_upwards_trend:	
-- 🌱 I’m currently learning R :man_technologist:
+- 👀 I’m interested in Data Analytics, :bar_chart:
+- 💞️ I’m looking to collaborate on Data Analytics, :chart_with_upwards_trend:	
+- 🌱 I’m currently learning R and Power BI. :man_technologist:
 - :card_index_dividers: Feel free to visit my Data Analytics Portfolio: http://bernardtse.github.io :bookmark:
 - 📫 How to reach me: bttse@yahoo.com :envelope:
 - ⚡ Fun fact: this is a [`README.md`](README.md) file :spiral_notepad:
