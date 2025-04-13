@@ -3,7 +3,7 @@
 - :earth_africa: Welcome to my GitHub profile: https://github.com/bernardtse :link:
 - 👀 I’m interested in Data Analytics. :bar_chart:
 - 💞️ I’m looking to collaborate on Data Analytics. :chart_with_upwards_trend:	
-- 🌱 I’m currently learning R and Power BI. :man_technologist:
+- 🌱 I’m currently learning Python. :man_technologist:
 - :card_index_dividers: LinkedIn Profile: https://www.linkedin.com/in/tsebernard :bookmark:
 - :card_index_dividers: Data Analytics Portfolio: https://bernardtse.github.io :bookmark:
 - :card_index_dividers: Data Analytics Bootcamp Assignments Hub: https://github.com/bernardtse/uob-data-bootcamp :bookmark:
